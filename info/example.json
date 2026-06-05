@@ -1,0 +1,12 @@
+{
+  "111111111111111111": {
+    "banner": "https://cdn.discordapp.com/attachments/xxxx/xxxx/banner.png"
+  },
+  "222222222222222222": {
+    "banner": "https://cdn.discordapp.com/attachments/xxxx/xxxx/banner.gif",
+    "pfp": "https://cdn.discordapp.com/attachments/xxxx/xxxx/avatar.png"
+  },
+  "333333333333333333": {
+    "pfp": "https://cdn.discordapp.com/attachments/xxxx/xxxx/avatar.gif"
+  }
+}
