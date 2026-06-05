@@ -1,8 +1,12 @@
 {
   "1250923728473296957": [
     {
+      "tooltip": "Fadecord Founder",
+      "badge": "https://cdn.discordapp.com/emojis/1512402692675207291.png?size=64"
+    },
+    {
       "tooltip": "Fadecord Developer",
-      "badge": "https://cdn.discordapp.com/badge-icons/5e74e9b61934fc1f67c65515d1f7e60d.png"
+      "badge": "https://cdn.discordapp.com/emojis/1512402709729509476.png?size=64"
     }
   ]
 }
